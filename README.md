@@ -1,4 +1,4 @@
-# CloudMart — AI Agent Deployment on AWS Lightsail
+# CloudMart - AI Agent Deployment on AWS Lightsail
 
 **Role:** AI Implementation Project Manager (self-directed, hands-on delivery)
 **Status:** Delivered · Validated · Decommissioned per cost-governance plan
@@ -10,7 +10,7 @@
 
 CloudMart is a containerized GenAI shopping assistant deployed to **AWS Lightsail Container Service**, exposing a public endpoint for a conversational AI agent that handles customer queries (hours, promotions, product info) in real time.
 
-This repo documents the deployment **as a governed delivery**, not just a technical walkthrough. The container image and application code were provided (K21Academy lab environment); the work captured here is the project management layer that would sit around any real-world deployment of this kind — charter, risk log, RACI, quality gate, and cost governance.
+This repo documents the deployment **as a governed delivery**, not just a technical walkthrough. The container image and application code were provided (K21Academy lab environment); the work captured here is the project management layer that would sit around any real-world deployment of this kind - charter, risk log, RACI, quality gate, and cost governance.
 
 The goal: show what "production-ready" looks like from a PM's seat, not just an engineer's.
 
@@ -44,10 +44,10 @@ This project was run against a standard delivery checklist rather than a single 
 
 ## What This Demonstrates
 
-- **Governance discipline applied to a technical deployment** — nothing shipped without a RACI and a rollback plan
-- **Secure configuration management** — API keys handled via Lightsail's native environment variable store, never hardcoded
-- **Risk-first thinking** — the OpenRouter rate-limit failure mode (HTTP 429) was documented *before* it occurred, with ranked mitigations
-- **Cost accountability** — capacity was sized to actual demo load (Micro node) rather than defaulted upward, and resources were torn down and logged post-validation
+- **Governance discipline applied to a technical deployment** - nothing shipped without a RACI and a rollback plan
+- **Secure configuration management** - API keys handled via Lightsail's native environment variable store, never hardcoded
+- **Risk-first thinking** - the OpenRouter rate-limit failure mode (HTTP 429) was documented *before* it occurred, with ranked mitigations
+- **Cost accountability** - capacity was sized to actual demo load (Micro node) rather than defaulted upward, and resources were torn down and logged post-validation
 
 ---
 
@@ -59,6 +59,6 @@ Built on a hands-on lab from [K21Academy](https://k21academy.com), guided by Atu
 
 ## About Me
 
-**Jaswant Singh, PMP** — AI Implementation Project Manager, transitioning from retail operations and project coordination (The Brick, Michael Hill, Mobil) into AI/cloud delivery. Based in Calgary, AB — open to remote roles across Canada.
+**Jaswant Singh, PMP** - AI Implementation Project Manager, transitioning from retail operations and project coordination (The Brick, Michael Hill, Mobil) into AI/cloud delivery. Based in Calgary, AB - open to remote roles across Canada.
 
 [LinkedIn](https://linkedin.com/in/jaswant-singh-pmp/) · [GitHub](https://github.com/JaswantOnGit)
