@@ -59,6 +59,6 @@ Built on a hands-on lab from [K21Academy](https://k21academy.com), guided by Atu
 
 ## About Me
 
-**Jaswant Singh, PMP** - AI Implementation Project Manager, transitioning from retail operations and project coordination (The Brick, Michael Hill, Mobil) into AI/cloud delivery. Based in Calgary, AB - open to remote roles across Canada.
+**Jaswant Singh, PMP** - AI Implementation Project Manager, transitioning from retail operations and project coordination (The Brick, Michael Hill) into AI/cloud delivery. Based in Calgary, AB - open to remote roles across Canada.
 
 [LinkedIn](https://linkedin.com/in/jaswant-singh-pmp/) · [GitHub](https://github.com/JaswantOnGit)
